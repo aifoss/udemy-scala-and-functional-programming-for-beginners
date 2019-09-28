@@ -6,7 +6,7 @@ package com.learning.scala.section05.object_oriented_programming_with_scala
 
 /**
  * Source:
- * Udemy Course: Scala and Functional Programming - From Beginner to Expert
+ * Udemy Course: Scala and Functional Programming for Beginners
  */
 object AnonymousClasses extends App {
 

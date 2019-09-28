@@ -6,7 +6,7 @@ package com.learning.scala.section02.scala_basics
 
 /**
  * Source:
- * Udemy Course: Scala and Functional Programming - From Beginner to Expert
+ * Udemy Course: Scala and Functional Programming for Beginners
  */
 object StringOperations extends App {
 

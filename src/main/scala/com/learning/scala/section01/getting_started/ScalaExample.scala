@@ -1,4 +1,4 @@
-package com.learning.scala.section01.introduction
+package com.learning.scala.section01.getting_started
 
 /**
  * Created by sofia on 2019-09-21.
@@ -6,7 +6,7 @@ package com.learning.scala.section01.introduction
 
 /**
  * Source:
- * Udemy Course: Scala and Functional Programming - From Beginner to Expert
+ * Udemy Course: Scala and Functional Programming for Beginners
  */
 object ScalaExample extends App {
 

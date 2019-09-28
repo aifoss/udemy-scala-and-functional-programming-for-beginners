@@ -1,4 +1,4 @@
-package com.learning.scala.section01.introduction;
+package com.learning.scala.section01.getting_started;
 
 import java.util.Objects;
 
@@ -8,7 +8,7 @@ import java.util.Objects;
 
 /**
  * Source:
- * Udemy Course: Scala and Functional Programming - From Beginner to Expert
+ * Udemy Course: Scala and Functional Programming for Beginners
  */
 public class JavaExample {
 

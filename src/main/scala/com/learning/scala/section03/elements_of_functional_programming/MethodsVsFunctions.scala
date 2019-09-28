@@ -6,7 +6,7 @@ package com.learning.scala.section03.elements_of_functional_programming
 
 /**
  * Source:
- * Udemy Course: Scala and Functional Programming - From Beginner to Expert
+ * Udemy Course: Scala and Functional Programming for Beginners
  */
 object MethodsVsFunctions extends App {
 

@@ -8,7 +8,7 @@ import scala.collection.mutable.ListBuffer
 
 /**
  * Source:
- * Udemy Course: Scala and Functional Programming - From Beginner to Expert
+ * Udemy Course: Scala and Functional Programming for Beginners
  */
 object BasicShoppingCartExample extends App {
 
